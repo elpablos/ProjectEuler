@@ -1,4 +1,4 @@
-# Problem 15 - Longest Collatz sequence
+# Problem 15 - Lattice paths
 import math
 import time as T
 start=T.time()
